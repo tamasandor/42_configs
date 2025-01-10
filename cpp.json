@@ -41,7 +41,7 @@
 			"",
 			"$TM_FILENAME_BASE::~$TM_FILENAME_BASE()",
 			"{",
-			"std::cout << \"$TM_FILENAME_BASE: deconstructor called\\n\";",
+			"std::cout << \"$TM_FILENAME_BASE: destructor called\\n\";",
 			"}",
 			""
 		]
