@@ -26,7 +26,6 @@
 			"",
 			"$TM_FILENAME_BASE::$TM_FILENAME_BASE()",
 			"{",
-			"testing here",
 			"    std::cout << \"$TM_FILENAME_BASE: default constructor called\\n;\"",
 			"}",
 			"",
